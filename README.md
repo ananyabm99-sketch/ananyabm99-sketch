@@ -2,9 +2,6 @@
 I am a Computer Science Engineering student at PES College of Engineering, Mandya, with a strong passion for technology and software development.<br>My goal is to build a strong foundation in computer science and become a skilled software developer.<br>I am currently familiar with Python and C, and I am actively learning new programming concepts and working on projects.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ananya-bm-38b714351) 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 # 📊 GitHub Stats:
