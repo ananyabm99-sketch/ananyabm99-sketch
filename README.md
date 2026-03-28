@@ -9,8 +9,7 @@ I am a Computer Science Engineering student at PES College of Engineering, Mandy
 ![](https://nirzak-streak-stats.vercel.app/?user=ananyabm99-sketch&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyabm99-sketch&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ananyabm99-sketch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ananyabm99-sketch&icon=9&color=3)](https://visitcount.itsvg.in)
